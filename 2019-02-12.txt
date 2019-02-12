@@ -1,0 +1,5 @@
+I have drawn out rough sketches of my page layouts.
+Ive decided to combine "About Me" and "contact" into one page.
+I am going to stylize my resume and use it as a page.
+I intend to implement a drop down navbar.
+
