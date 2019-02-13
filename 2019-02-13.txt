@@ -3,5 +3,10 @@ Noon
    Added about me statement and changed margins to center it.
    added email link
 
+Afternoon
+    Renamed Skills tab to Projects
+    In the process of transferring my resume to the HTML page
+    Will incorporate skills and resume into a grid with scrolling
+
 
 
