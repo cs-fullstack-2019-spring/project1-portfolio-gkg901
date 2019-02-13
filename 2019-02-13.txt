@@ -1,0 +1,7 @@
+
+Noon
+   Added about me statement and changed margins to center it.
+   added email link
+
+
+
