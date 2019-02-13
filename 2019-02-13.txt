@@ -4,6 +4,7 @@ Noon
    added email link
 
 Afternoon
+    added picture and grid to style elements on About page
     Renamed Skills tab to Projects
     In the process of transferring my resume to the HTML page
     Will incorporate skills and resume into a grid with scrolling
