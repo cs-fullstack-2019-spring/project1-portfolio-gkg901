@@ -2,6 +2,7 @@
 Noon
    styled resume page
    added download link
+   started journey page
 
 
 
