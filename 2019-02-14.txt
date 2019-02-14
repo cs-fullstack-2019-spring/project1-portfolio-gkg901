@@ -3,6 +3,10 @@ Noon
    styled resume page
    added download link
    started journey page
+Afternoon
+    finished journey page
+    set up links to git hub through icons on projects page
+    added google form link to about page
 
 
 
