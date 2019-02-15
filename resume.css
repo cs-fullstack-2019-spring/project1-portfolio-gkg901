@@ -1,6 +1,6 @@
 .overlay{
 
-    background:url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/footer_lodyas.png);
+    background:url(https://www.toptal.com/designers/subtlepatterns/patterns/dark_wood.png);
     -webkit-animation:100s scroll infinite linear;
     -moz-animation:100s scroll infinite linear;
     -o-animation:100s scroll infinite linear;
@@ -12,6 +12,15 @@
     height:100%;
 }
 
+
+.clickClass{
+    border-bottom: 1px solid #FFF;
+}
+
+
+nav:hover{
+    border-bottom: 1px solid #FFF;
+}
 
 #nav{
 
