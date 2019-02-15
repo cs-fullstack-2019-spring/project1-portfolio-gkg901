@@ -3,6 +3,13 @@ Noon
    changed background
    added target class to project links
    added class for "on click" styling
+Afternoon
+    changed nav links to buttons
+    moved skills to top of resume page
+    added style for button page
+    added drop shadow to img
+    changed about me font
+
 
 
 

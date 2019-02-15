@@ -1,5 +1,5 @@
 
-$("nav").click(function () {
-    $(this).addClass("clickClass")
-
-});
+//
+// $('button').click(function () {
+//     $(this).addClass("clickClass")
+// });
