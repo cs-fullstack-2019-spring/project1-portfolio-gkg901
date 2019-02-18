@@ -1,5 +1,6 @@
-.overlay{
 
+/*INFINTE SCROLLING BACKGROUND*/
+.overlay{
     background:url(https://www.toptal.com/designers/subtlepatterns/patterns/dark_wood.png);
     -webkit-animation:100s scroll infinite linear;
     -moz-animation:100s scroll infinite linear;
@@ -12,19 +13,19 @@
     height:100%;
 }
 
-
+/*PAGE IDENTIFIERS FOR NAV*/
 .onPage{
     border-left: 1px solid #FFF;
     border-right: 1px solid #FFF;
-
 }
 
 
-
+/*NAV BUTTON STYLING*/
 button:hover{
     border-bottom: 1px solid #FFF;
 }
 
+/*NAV BAR GRID*/
 #nav{
 
     display: grid;
@@ -36,6 +37,7 @@ button:hover{
     margin-right: auto;
 }
 
+/*NAV BAR BUTTON STYLING*/
 button {
     border: none;
     background: none;
@@ -49,6 +51,8 @@ button {
     0px 18px 23px rgba(0, 0, 0, 0.1);
 }
 
+
+/*CONTENT GRID (NOT CURRENTLY IN USE)*/
 .container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
@@ -59,13 +63,14 @@ button {
     font-size: larger;
 }
 
+
+/*DOWNLOAD RESUME BUTTON PLACEMENT*/
 p:first-child{
     margin-top: 7%;
     padding-bottom: 5px;
-
 }
 
-
+/*STYLING FOR SECONDARY RESUME POINTS*/
 p{
     margin:0;
     padding-left: 20px;
@@ -80,12 +85,13 @@ p{
     0px 18px 23px rgba(0,0,0,0.1);
 }
 
+/*FONT STYLING FOR RESUME BULLETS*/
 .smaller{
     font:24px Lobster;
     margin:0;
 }
 
-
+/*STYLING FOR RESUME POINTS*/
 li{
     font-size: larger;
     color: #FFF;
@@ -94,7 +100,7 @@ li{
     margin-right: 33%;
 }
 
-
+/*RESUME PLACEMENT*/
 #resume{
     margin-top: 2%;
 }

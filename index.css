@@ -1,3 +1,4 @@
+/*INFINITE SCROLLING BACKGROUND*/
 .overlay {
     position: fixed;
     background: url(https://www.toptal.com/designers/subtlepatterns/patterns/dark_wood.png);
@@ -14,29 +15,30 @@
 
 
 
-
+/*CONTENT PLACEMENT GRID*/
 #aboutContent {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
 
+/*PAGE IDENTIFIERS FOR NAV*/
 .onPage{
     border-left: 1px solid #FFF;
     border-right: 1px solid #FFF;
 
 }
 
+/*CONTACT LINK STYLING*/
 #message{
     color: mediumslateblue;
 }
 
+/*UNDERLINE NAV TABS ON MOUSE HOVER*/
 button:hover {
     border-bottom: 1px solid #FFF;
-
-
 }
 
-
+/*NAV BAR GRID*/
 #nav {
     /*margin-top: 1%;*/
     display: grid;
@@ -48,6 +50,7 @@ button:hover {
     margin-right: auto;
 }
 
+/*NAV BUTTON STYLING*/
 button {
     border: none;
     background: none;
@@ -61,6 +64,7 @@ button {
     0px 18px 23px rgba(0, 0, 0, 0.1);
 }
 
+/*WHO AM I*/
 h1 {
     text-align: center;
     color: #FFF !important;
@@ -71,6 +75,7 @@ h1 {
     0px 18px 23px rgba(0, 0, 0, 0.1);
 }
 
+/*ABOUT ME CONTENT STYING AND PLACEMENT*/
 p {
     padding-left: 20px;
     border-left: 2px solid #FFF;
@@ -85,7 +90,7 @@ p {
     0px 18px 23px rgba(0, 0, 0, 0.1);
 }
 
-
+/*IMAGE STYLING*/
 #me {
     filter: drop-shadow(-25px 10px 9px black);
     margin-left: 350px;
@@ -94,6 +99,7 @@ p {
     width: 450px;
 }
 
+/*BACKGROUND STYLING*/
 @-webkit-keyframes scroll {
     100% {
         background-position: 0px -3000px;
@@ -136,25 +142,3 @@ a:link {
 }
 
 
-/*a{*/
-/*background:#e74c3c;*/
-/*color:#FFF;*/
-/*position:relative;*/
-/*padding:15px;*/
-/*font-weight:900 !important;*/
-/*text-transform:uppercase;*/
-/*border-radius:5px;*/
-/*font:14px lato;*/
-/*opacity:0.8;*/
-/*letter-spacing:1px;*/
-/*text-decoration:none;*/
-/*box-shadow:#c0392b 0px 7px 2px,#000 0px 8px 5px;*/
-/*}*/
-
-/*a:hover{*/
-/*opacitY:1;*/
-/*}*/
-/*a:active{*/
-/*top:4px;*/
-/*box-shadow:#c0392b 0px 3px 2px,#000 0px 3px 5px;*/
-/*}*/
