@@ -2,7 +2,7 @@
 /*INFINTE SCROLLING BACKGROUND*/
 
 .overlay{
-    position:fixed;
+    /*position:fixed;*/
     background:url(https://www.toptal.com/designers/subtlepatterns/patterns/dark_wood.png);
     -webkit-animation:100s scroll infinite linear;
     -moz-animation:100s scroll infinite linear;
@@ -105,6 +105,16 @@ button {
 #pythonsub{
     grid-row: 4;
     grid-column: 2;
+}
+
+#node{
+    grid-row: 5;
+    grid-column: 1;
+}
+
+#nodesub{
+    grid-row: 6;
+    grid-column: 1;
 }
 
 
